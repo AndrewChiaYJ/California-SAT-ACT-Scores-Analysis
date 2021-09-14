@@ -28,15 +28,11 @@ As education policy advisor for the government of California in the year 2020, I
 
 <ins>County Analysis</ins>
 
-![plot](../Powerpoint_slides/Images Used in Slides/California_Median_%_Yr12_Students_above_SAT_benchmark.png)
-
 Among the 53 counties in California, observe the bottom 5 counties in terms of median % of Year 12 students achieving scores above benchmarks for both subjects are Colusa, Glenn, Fresno, Los Angeles, and Monterey.
 
 
 
 <ins>Subject Analysis</ins>
-
-![plot](../Powerpoint_slides/Images Used in Slides/%_Yr12_Students_above_Math_vs_ERW_benchmark.png)
 
 Based on a correlation study between % of Year 12 above math benchmark vs % of Year 12 above ERW benchmark, observe a strong +ve linear correlation, indicating that students with weak ERW background could possibly have weak Math background as well. 
 
@@ -48,19 +44,9 @@ It is also observed that % of Year 12 above benchmark for Math subject is always
 
 <ins>County Analysis</ins>
 
-![plot](../Powerpoint_slides/Images Used in Slides/California_Median_%_Students_above_21_ACT_Composite.png)
-
 Among the 53 counties in California, observe the bottom 5 counties in terms of median % of students obtaining >=21 composite scores are  Modoc, Fresno, Monterey, Tehama, and Lake.
 
 <ins>Subject Analysis</ins>
-
-![plot](../Powerpoint_slides/Images Used in Slides/English_vs_%_Students_above_21_ACT_Composite.png)
-
-![plot](../Powerpoint_slides/Images Used in Slides/Math_vs_%_Students_above_21_ACT_Composite.png)
-
-![plot](../Powerpoint_slides/Images Used in Slides/Reading_vs_%_Students_above_21_ACT_Composite.png)
-
-![plot](../Powerpoint_slides/Images Used in Slides/Science_vs_%_Students_above_21_ACT_Composite.png)
 
 Observed that all 4 subjects shows strong +ve linear correlation to % of students obtaining >=21 composite score, suggesting that to increase the % of students obtaining >=21 composite scores, all the 4 subjects are equally important.
 
